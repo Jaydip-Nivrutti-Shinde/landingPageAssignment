@@ -3,16 +3,8 @@ import { motion } from 'framer-motion';
 import { 
   Zap, 
   Shield, 
-  Code, 
   Globe, 
-  Lock, 
-  Cloud,
-  Smartphone,
-  Database,
-  Users,
-  Bell,
-  LineChart,
-  Palette
+ 
 } from 'lucide-react';
 
 const Features = () => {

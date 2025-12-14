@@ -3,11 +3,7 @@ import {
   Sparkles, 
   Zap, 
   Shield, 
-  Cpu, 
-  Globe, 
-  Lock, 
-  Cloud, 
-  Code 
+  Cpu
 } from 'lucide-react';
 
 const FloatingElements = () => {

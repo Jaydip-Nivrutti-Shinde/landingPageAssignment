@@ -6,8 +6,6 @@ import {
   Award, 
   Globe, 
   TrendingUp,
-  Clock,
-  BarChart3,
   Heart
 } from 'lucide-react';
 
